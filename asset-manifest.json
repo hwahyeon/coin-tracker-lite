@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reactjs-beginner-cointrack/static/css/main.be1ef61f.css",
-    "main.js": "/reactjs-beginner-cointrack/static/js/main.a6ac1573.js",
+    "main.js": "/reactjs-beginner-cointrack/static/js/main.0e14da32.js",
     "index.html": "/reactjs-beginner-cointrack/index.html",
     "main.be1ef61f.css.map": "/reactjs-beginner-cointrack/static/css/main.be1ef61f.css.map",
-    "main.a6ac1573.js.map": "/reactjs-beginner-cointrack/static/js/main.a6ac1573.js.map"
+    "main.0e14da32.js.map": "/reactjs-beginner-cointrack/static/js/main.0e14da32.js.map"
   },
   "entrypoints": [
     "static/css/main.be1ef61f.css",
-    "static/js/main.a6ac1573.js"
+    "static/js/main.0e14da32.js"
   ]
 }
