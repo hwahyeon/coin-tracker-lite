@@ -1,6 +1,6 @@
 # The Coins!
 
-**[Start](https://hwahyeon.github.io/reactjs-beginner-cointrack/)**
+**[Start](hwahyeon.github.io/coin-tracker-lite/)**
 
 ## Overview
 **"The Coins!"** application is a tool that calculates the amount of **Cryptocurrency** you can invest in using either US Dollars (USD) or Korean Won (KRW). This app is particularly useful for those looking to explore the possibilities of cryptocurrency investment with USD and KRW, taking into account the volatility of exchange rates.
