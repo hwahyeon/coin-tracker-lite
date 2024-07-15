@@ -1,5 +1,5 @@
 {
-    "name": "small-projects",
+    "name": "coin-tracker-lite",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -39,5 +39,5 @@
             "last 1 safari version"
         ]
     },
-    "homepage": "https://hwahyeon.github.io/reactjs-beginner-cointrack"
+    "homepage": "https://hwahyeon.github.io/coin-tracker-lite"
 }
